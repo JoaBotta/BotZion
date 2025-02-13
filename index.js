@@ -38,6 +38,8 @@ const inviteToRole = {
 
  QBU7cyDbZv: "All In One",
   //https://discord.gg/QBU7cyDbZv
+  GkHh66eJUU: "GRATIS"
+  //https://discord.gg/GkHh66eJUU
 };
 
 // Mapa para almacenar las invitaciones actuales
