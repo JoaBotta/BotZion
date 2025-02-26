@@ -39,7 +39,7 @@ const inviteToRole = {
  QBU7cyDbZv: "All In One",
   //https://discord.gg/QBU7cyDbZv
   //GkHh66eJUU: "GRATIS"
-  BJ7xqkUgQz: "GRATIS"
+  BJ7xqkUgQz: "GRATIS",
   //https://discord.gg/BJ7xqkUgQz
 
   GkHh66eJUU: "7 DIAS"
