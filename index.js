@@ -42,7 +42,7 @@ const inviteToRole = {
   BJ7xqkUgQz: "GRATIS",
   //https://discord.gg/BJ7xqkUgQz
 
-  GkHh66eJUU: "7 DIAS"
+  GkHh66eJUU: "7 DIAS",
   //https://discord.gg/GkHh66eJUU
 
 };
